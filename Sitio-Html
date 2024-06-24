@@ -1,1 +1,134 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Aquí coloca el título de tu página web</title>
+        <meta name="description" content="Aquí debes colocar la descripción del sitio web">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div class="header-container">
+            <header class="wrapper clearfix">
+                <h1 class="title">Johanna Pullas</h1>
+                <nav>
+                    <ul>
+                        <li><a href="https://www.linkedin.com/in/johanna-pullas-a31b41278/">LinkedIn</a></li>
+
+        <li><a href="https://grafikandoideasec.blogspot.com/">Blogger</a></li> 
+
+                    
+                        <li><a href="https://johannapullash.wordpress.com">Wordpress</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+
+        <div class="main-container">
+            <div class="main wrapper clearfix">
+
+                <article>
+                    <header>
+                        <h1>Sobre mi</h1>
+<img src="sobremi.png" />
+                        <p>Soy  Diseñadora Gráfica y actualmente curso la carrera de Marketing Digital. Me considero una persona muy creativa, responsable, organizada, amable y de mente abierta. Siempre dispuesta para aprender cosas nuevas..</p>
+                    </header>
+                    <section>
+                        <h2>Experiencia Laboral</h2>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video de YouTube</title>
+    <style>
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 */
+            padding-top: 25px;
+            height: 0;
+        }
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/Dpogg1W_CJg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+                        <li><a>Community manager | Inka Burger | 2023 | Manejo de redes sociales, creación de artes digitales, creación de reels para redes sociales</a></li>
+                        <li><a>Practicante diseñador gráfico | Dilipa | 2022 | Diseño de post para social media,fotografía para página web</a></li>
+                        <li><a>Servicio comunitario diseñador gráfico | Diseños Mykeyla | 2020 |Creación de logo, diseño de post para social media, creación de material P.O.P</a></li>
+                    </section>
+                    <section>
+                        <h2>Educación</h2>
+                        <li><a>Bchiller General Unificado | Coolegio De América | 2008-2018 </a></li>
+                        <li><a>Tecnólogo Superior en Diseño Gráfico | Instituto Tecnológico Superior Cordillera | 2020-2023 </a></li>
+                        <li><a>Tecnólogo Superior en Marketing Digital y Comercio Electrónico | Instituto Tecnológico Superior Cordillera | En curso </a></li>
+                    </section>
+                    <footer>
+                        <h2>Cursos</h2>
+                        <p>Certificado en cloud computing | Google-Escuela de organización industrial | 2024</p>
+<p>Dipolmado en community manager mención en Ux: writing e influencia digital | Letrada | 2023</p>
+
+                </article>
+
+                <aside>
+
+                    <h3>Diseñador Gráfico y Marketing Digital</h3>
+<img src="johanna.png" />
+<h2>Contacto</h2>
+                   
+<li><a>pullasjohanna@gmail.com</a></li>
+<li><a>0989971025</a></li>
+ <li><a>Quito - Ecuador</a></li>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ícono de Font Awesome</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <!-- Enlace que envuelve el ícono de Font Awesome -->
+    <a href="https://www.linkedin.com/in/johanna-pullas-a31b41278/"_blank" style="text-decoration: none;">
+        <i class="fa-brands fa-linkedin" style="font-size: 25px; color: black;"></i>
+    </a>
+                </aside>
+
+            </div> <!-- #main -->
+        </div> <!-- #main-container -->
+
+        <div class="footer-container">
+            <footer class="wrapper">
+                <h3>Pie de página</h3>
+				<p>Johanna Pullas- Todos los derechos reservados - 2024</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.803624906141!2d-78.49096462522371!3d-0.15550789984295885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59aba9e05e6a1%3A0x606478970ed82284!2sInstituto%20Superior%20Tecnol%C3%B3gico%20Cordillera!5e0!3m2!1ses!2sec!4v1718735974163!5m2!1ses!2sec" width="1100" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </footer>
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+
+        <script src="js/main.js"></script>
+
+    </body>
+</html>
+
 
